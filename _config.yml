@@ -1,19 +1,4 @@
-name: glover
-favicon: null
-layout_spectrum: 0.636689007980749
 typography_spectrum: 0.562641175929457
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5289124401751906
   saturation: 0.21440474246628582
   rhythmicContrast: 0.7999699893407524
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.636689007980749
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: glover
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Finally on The Grid
 purpose: []
